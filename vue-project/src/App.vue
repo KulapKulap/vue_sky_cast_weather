@@ -8,7 +8,7 @@ export default {
     return {
       city: "",
       error: "",
-      API: '7f061594b3629ab634fd104c5c98f852',
+      API: '',
       info: null,
     }
   },
